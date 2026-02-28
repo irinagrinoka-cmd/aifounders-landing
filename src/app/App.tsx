@@ -27,7 +27,7 @@ export default function App() {
           {/* Logo/Title Mark */}
           <div className="mb-8">
             <div 
-              className="inline-block text-7xl md:text-8xl lg:text-9xl font-bold uppercase tracking-[0.2em] text-white drop-shadow-2xl"
+              className="inline-block text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-bold uppercase tracking-[0.12em] sm:tracking-[0.15em] text-white"
               style={{ fontFamily: "'Space Grotesk', sans-serif" }}
             >
               AI
