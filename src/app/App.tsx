@@ -23,7 +23,7 @@ export default function App() {
         </div>
 
         {/* Hero Content */}
-        <div className="relative z-10 max-w-6xl mx-auto px-4 text-center">
+        <div className="relative z-10 w-full max-w-screen-xl mx-auto px-6 sm:px-8 md:px-12 text-center">
           {/* Logo/Title Mark */}
           <div className="mb-8">
             <div 
